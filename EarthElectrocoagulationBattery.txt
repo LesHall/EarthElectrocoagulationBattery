@@ -1,10 +1,10 @@
 Water Battery
 by Les Hall
 
-This Technology Information Summary from Les Hall of elequa
-is intended to convey a potentially significant discovery
-to anyone in the public domain who has interest in water
-purification, especially for people who lack clean water.  
+This document is intended to convey a potentially significant
+discoveryto anyone in the public domain who has interest in
+water purification, especially for people who lack clean water.  
+
 
 Please see the following link to a Wikipedia article about
 an Earth Battery:  
